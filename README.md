@@ -6,4 +6,4 @@
 
 ### python
 
-可以用mepe r2测试一下
+可以用mape r2测试一下
